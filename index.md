@@ -1,6 +1,6 @@
 # Welcome to My Data Science Portfolio
 
-Hi! I am Yingtong He (赫英同), a first-year graduate student at the University of Macau, specializing in Data Strategy and Compliance Management. I am passionate about exploring the intersection of data science, data privacy compliance, and sustainable socio-economic governance.
+Hi! I am Yingtong He, a first-year graduate student at the University of Macau, specializing in Data Strategy and Compliance Management. I am passionate about exploring the intersection of data science, data privacy compliance, and sustainable socio-economic governance.
 
 ## Technical Skills
 - Programming Languages: Python, SQL, R
